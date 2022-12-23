@@ -13,7 +13,7 @@ Laporan Resmi Praktikum Modul 5 Kelompok C04
 IP Prefix Kelompok C04 : `192.181`
 
 ## Topologi
-
+![topologi](https://user-images.githubusercontent.com/80630201/209289231-407bb52a-8b4c-4b0c-ab4b-f790ed1bc729.png)
 
 Keterangan:
 
@@ -26,6 +26,8 @@ Keterangan:
 - Jumlah Host pada `Briar` adalah 200 host
 
 #### Menentukan jumlah subnet pada Topologi
+![subnet](https://user-images.githubusercontent.com/80630201/209289220-e1b89900-0618-48ee-883a-51e90f1810b4.png)
+
 
 #### Menentukan jumlah IP yang dibutuhkan pada subnet
 
@@ -44,10 +46,10 @@ Keterangan:
 Berdasarkan total IP dan netmask yang dibutuhkan, Subnet besar yang dibentuk memiliki `NID 192.181.0.0` dengan `Netmask /21`.
 
 #### Menghitung pembagian IP berdasarkan NID dan Netmask yang didapatkan
-
+![tree fix](https://user-images.githubusercontent.com/80630201/209289233-9cd0e5d8-eb59-4669-abbd-3a7b547f83d4.jpg)
 
 #### Hasil Pembagian IP
-
+![table](https://user-images.githubusercontent.com/80630201/209289229-ebabf83b-eb1b-4ad9-9978-14c2ed2ce5bc.jpg)
 
 #### Network Configuration
 
