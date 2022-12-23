@@ -26,7 +26,7 @@ Keterangan:
 - Jumlah Host pada `Briar` adalah 200 host
 
 #### Menentukan jumlah subnet pada Topologi
-![subnet](https://user-images.githubusercontent.com/80630201/209289220-e1b89900-0618-48ee-883a-51e90f1810b4.png)
+![subnett](https://user-images.githubusercontent.com/80630201/209289737-8cba9e37-17cd-4102-869e-657f355856e8.jpg)
 
 
 #### Menentukan jumlah IP yang dibutuhkan pada subnet
